@@ -3,8 +3,8 @@ const mysql = require('mysql2');
 
 const db = mysql.createPool({
   host: 'localhost',     // Replace with your database host
-  user: 'resadmin',     // Replace with your database user
-  password: 'testme', // Replace with your database password
+  user: '',     // Replace with your database user
+  password: '', // Replace with your database password
   database: 'vm_reservations' // Replace with your database name
 });
 
