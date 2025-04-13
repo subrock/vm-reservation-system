@@ -1,9 +1,9 @@
 // config/mail.js
 module.exports = {
-  service: 'gmail.com', // e.g., 'Gmail', 'Outlook'
+  service: '', // e.g., 'Gmail', 'Outlook'
   auth: {
-    user: 'subrock@gmail.com', // Your email address
-    pass: 'ilydytjemrnejonq'    // Your email password or app password
+    user: '', // Your email address
+    pass: ''    // Your email password or app password
   }
 };
 
